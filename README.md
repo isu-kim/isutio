@@ -1,2 +1,2 @@
-# istio-stuff
+# isutio
 Istio Stuffs That I Frequently Use
